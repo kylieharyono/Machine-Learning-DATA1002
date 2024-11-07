@@ -1,0 +1,19 @@
+Health Stats (Data Summary)
+
+
+LIFE EXPECTANCY BASED ON INCOME GROUPS
+Income Group,Mean,Median,Range,Count,Maximum,Minimum
+High Income,79.451,81.5,29.8,37,88.0 (Slovenia),58.2 (Equatorial Guinea)
+Upper Middle Income,73.126,75.0,27.2,35,79.6 (Costa Rica),52.4 (Angola)
+Lower Middle Income,67.45,67.9,21.2,30,74.9 (Sri Lanka),53.7 (Lesotho)
+Low Income,61.825,61.85,20.8,24,71.8 (Bangladesh),51.0 (Sierra Leone)
+
+
+LIFE EXPECTANCY AT BIRTH (BASED ON MEDICAL DOCTOR BINS)
+Bin,Medical Doctors (per 10000),Mean LE,Median LE,Range LE,Frequency,Maximum LE, Minimum LE
+1,0-10,63.808,63.04,27.248,81,75.653 (Thailand),48.405 (Lesotho)
+2,10-20,75.24,75.29,11.612,31,81.543 (Singapore),69.93 (Philippines)
+3,20-30,75.595,75.936,17.605,34,82.92 (Japan),65.315 (Turkmenistan)
+4,30-40,76.788,77.525,13.127,25,81.993 (Switzerland),68.865 (Ukraine)
+5,40-50,78.407,80.118,9.825,4,81.61 (Italy),71.785 (Georgia)
+7,60-70,77.52,77.52,0.0,1,77.52 (Cuba),77.52 (Cuba)
