@@ -4,7 +4,8 @@
 
 This was a project done for university work. The parts being included here are all the individual contirbutions extracted from the groupwork.
 - Data Processing: integrating the 4 different datasets into one, done by me.
-- 
+- Data Visualisation: creating graphs and charts to represent information from the datasets, part of group contribution.
+- Machine Learning & Results Report: using machine learning to predict information, extracting information, and testing the accuracy from results. The report is part of the group work, but the code and cleaned dataset included in this repository are all done by me.
 
 ## Techniques & Tools:
 
