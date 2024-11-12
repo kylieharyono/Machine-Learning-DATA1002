@@ -6,10 +6,13 @@ In this project, we worked with a large, integrated dataset containing global he
 
 ## Techniques & Tools:
 
-Data Integration: Combining diverse global health data sources
-Modeling: k-Nearest Neighbors (kNN) regression, Logistic regression
-Evaluation: R-squared, RMSE
-Tools: Python, Scikit-learn, Pandas, Microsoft Excel (csv and xlsx)
+- Data Integration: Combining diverse global health data sources
+
+- Modeling: k-Nearest Neighbors (kNN) regression, Logistic regression
+
+- Evaluation: R-squared, RMSE
+
+- Tools: Python, Scikit-learn, Pandas, Microsoft Excel (csv and xlsx)
 
 ## Contributions: 
 
