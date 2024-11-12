@@ -1,12 +1,15 @@
-# Machine-Learning----DATA1002
+# Predictive Modeling with Global Health Data
 
 ## Description:
 
-The main purpose of this project was to see the accuracy of Machine Learning techniques. This went through data processing, visualisation, and using Machine Learning to predict results. 
+In this project, we worked with a large, integrated dataset containing global health indicators like life expectancy, mortality rates, and GDP. The goal was to predict life expectancy using various regression models. We divided the dataset into training and test sets and used k-Nearest Neighbors (kNN) regression and logistic regression to make predictions. We assessed the model’s performance using metrics such as R-squared and Root Mean Square Error (RMSE). This project aimed to understand how global health factors could predict outcomes and demonstrated the challenges of working with real-world datasets.
 
 ## Techniques & Tools:
 
-Most of the work is done through Python coding and the datasets are made into xlsx formats. This project covers Machine Learning & regression models, specifically kNN regression. 
+Data Integration: Combining diverse global health data sources
+Modeling: k-Nearest Neighbors (kNN) regression, Logistic regression
+Evaluation: R-squared, RMSE
+Tools: Python, Scikit-learn, Pandas, Microsoft Excel (csv and xlsx)
 
 ## Contributions: 
 
